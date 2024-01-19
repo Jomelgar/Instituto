@@ -23,7 +23,7 @@ public class Ticket {
     }
     
     public String Print(){
-        return "Pasajero: " + Pasajero + "L. " + Total;
+        return "Nombre: " + Pasajero + "\nPagado: L." + Total;
     }
     
 }
